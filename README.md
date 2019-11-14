@@ -1,0 +1,2 @@
+# flakestock
+Just for game
